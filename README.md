@@ -37,7 +37,6 @@ data/
 
 environment: Environments for performing each code are stored in this directory./
 
-For performing BO (edbo.yml): Python (3.10.13) was used as a language, and used packages were deepchem (2.8.0), matplotlib (3.9.0), numpy (1.26.3), pandas (2.2.2), scikit-learn (1.5.0), tensorflow (2.15.0), torch (2.2.0+cu121), and torch_geometric (2.4.0).
+For performing BO (edbo.yml): Python (3.7.12) was used as a language, and used packages were edbo (0.1.0) and pandas (1.3.5).
 
-For using general ML investigations (OPSsearch.yml): Python (3.10.16) was used as a language, and used packages were numpy (2.2.1), pandas (2.2.3), rdkit (2024.3.6), scikit-learn (1.6.0), torch (2.5.1+cu121), and transformers (4.47.1).
-
+For using general ML investigations (OPSsearch.yml): Python (3.9.20) was used as a language, and used packages were adapt (0.4.4), matplotlib (3.9.2), numpy (1.26.4), pandas (2.2.3), rdkit (2024.9.5), scikit-learn (1.5.2), scipy (1.12.0), seaborn (0.13.2), and xgboost (2.1.4).
