@@ -1,31 +1,31 @@
 # P9-20240104-HI
 # Table of Contents
 code_result/
-- Additional_edbo: Code and results for XX.
+- Additional_edbo: Bayesian optimization with a random forest-based surrogate model.
 
-- OPSsearch_OCH2F: Code and results for XX.
+- OPSsearch_OCH2F: TL-based optimization for identifying the optimal OPSs in PR13.
 
-- OPSsearch_OoS: Code and results for XX.
+- OPSsearch_OoS: TL-based and RF-based optimizations for identifying OPS61, an effective photosensitizer not included in the source domain, in PR2.
 
-- OPSsearch_P: Code and results for XX.
+- OPSsearch_P: TL-based optimization for identifying the optimal OPSs in PR14.
 
-- OPSsearch_Si: Code and results for XX.
+- OPSsearch_Si: TL-based optimization for identifying the optimal OPS in PR15.
 
-- OPSsearch_edbo: Code and results for XX.
+- OPSsearch_edbo: Bayesian optimization (surrogate model: GPR) for identifying the optimal OPSs in PR13–PR15.
 
-- OPSsearch_edbo_sc: Code and results for XX.
+- OPSsearch_edbo_sc: Bayesian optimization using the standardized descriptor set.
 
-- OPSsearch_others: Code and results for XX.
+- OPSsearch_others: TL-based optimization for identifying the optimal OPS in PR1–PR12.
 
-- OPSsearch_random: Code and results for XX.
+- OPSsearch_random: Random search in PR1–PR15.
 
-- OPSsearch_woTL: Code and results for XX.
+- OPSsearch_woTL: RF-based and LR-based optimizations without TL for identifying the optimal OPSs in PR1–PR15.
 
-- Regression: Code and results for XX.
+- Regression: Construction of RF-based and TrAB-based regression models in PR13–PR15.
 
-- analysis: Code and results for XX.
+- analysis: Code for analysing the results.
 
-- demo: Code and results for XX.
+- demo: Demonstration of RF-based and TL-based optimizations (target: PR14).
 
 - results/results_OoS/results_others/results_reg: Storage of ML results.
 
