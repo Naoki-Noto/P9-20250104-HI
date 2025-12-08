@@ -3,6 +3,8 @@
 code_result/
 - Additional_edbo: Bayesian optimization with a random forest-based surrogate model.
 
+- Additional_publicdata: Optimization for identifying the optimal OPSs in publicly available dataset.
+
 - OPSsearch_OCH2F: TL-based optimization for identifying the optimal OPSs in PR13.
 
 - OPSsearch_OoS: TL-based and RF-based optimizations for identifying OPS61, an effective photosensitizer not included in the source domain, in PR2.
